@@ -1,7 +1,7 @@
 # ML Model Battle  
 **Interactive benchmarking of classical machine learning models**
 
-🔗 **Live App:** https://mlmodelbattle.streamlit.app/
+**Live App:** https://mlmodelbattle.streamlit.app/
 
 ---
 
@@ -41,8 +41,6 @@ All models are trained and evaluated using the same pipeline to ensure fairness.
   - Encoding categorical features using label encoding
   - Feature scaling using `StandardScaler`
 - Target variable: `income`
-
-*(Dataset preprocessing is intentionally kept explicit to ensure transparency.)*
 
 ---
 
